@@ -1,0 +1,61 @@
+body{
+    background-color: springgreen;
+    font-family: sans-serif;
+}
+.header img{
+    float: left;
+    height: auto;
+    width: auto;
+}
+.header h1{
+    text-align: center;
+    color:white;
+    font-family:verdana;
+    font-size: 45px;
+
+}
+.header{
+    background: purple;
+    width: auto;
+    height: auto;
+
+}
+#container{
+     
+  width: auto;
+  height: auto;
+
+}
+#container img{
+    float:left;
+    width: 400px;
+    height: 400px;
+}
+#container p{
+    font-family:palatino;
+    font-size: 25px;
+   
+}
+.clubs{
+    background:yellow;
+    font-family: inherit;
+    font-size: 20px;
+    background-size: auto;
+    max-width: inherit;   
+}
+.clubs h3{
+    text-align: center;
+    font-size: 30px;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 65.33%;
+  padding: 5px;
+}
+.footer{
+     background-color:firebrick;
+  padding: 10px;
+  text-align: left;
+}
